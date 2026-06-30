@@ -26,11 +26,13 @@ Start with a short guided conversation, not file editing.
 Prompt:
 
 ```text
-Give me the seed for this project in whatever form you have it.
+Let's set the foundation before we write canon.
 
-What are we building it for: novel, tabletop campaign, game, wiki, visual bible, private fan project, graphic novel, or something else?
+First, tell me what we are building this for: novel, tabletop campaign, game, wiki, visual bible, private fan project, graphic novel, publication-oriented setting, hybrid, or something else.
 
-Is there an existing pattern, ruleset, source canon, or lore base I should respect?
+Also tell me whether there is an existing pattern, ruleset, source canon, or lore base I should respect.
+
+Then add whatever seed material you already have.
 ```
 
 Then:

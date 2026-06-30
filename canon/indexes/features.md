@@ -1,6 +1,6 @@
 # Feature Index
 
-Generated: 2026-06-30T10:04:57
+Generated: 2026-06-30T15:36:02
 
 - .features/_template/acceptance.md
 - .features/_template/brief.md
@@ -11,3 +11,21 @@ Generated: 2026-06-30T10:04:57
 - .features/_template/requirements.md
 - .features/_template/tasks.md
 - .features/_template/worklog.md
+- .features/project-foundation/README.md
+- .features/project-foundation/acceptance.md
+- .features/project-foundation/brief.md
+- .features/project-foundation/decisions.md
+- .features/project-foundation/design.md
+- .features/project-foundation/questions.md
+- .features/project-foundation/requirements.md
+- .features/project-foundation/tasks.md
+- .features/project-foundation/worklog.md
+- .features/story-engine/README.md
+- .features/story-engine/acceptance.md
+- .features/story-engine/brief.md
+- .features/story-engine/decisions.md
+- .features/story-engine/design.md
+- .features/story-engine/questions.md
+- .features/story-engine/requirements.md
+- .features/story-engine/tasks.md
+- .features/story-engine/worklog.md

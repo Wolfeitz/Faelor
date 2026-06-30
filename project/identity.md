@@ -1,17 +1,17 @@
 # Project Identity
 
-Working name: Lughbrugh
+Working name: Fealor
 
-Long identity direction: Lughbrugh: Workshop of the gods, by Kadzu WorldBuilder.
+Long identity direction: original LitRPG/system fantasy worldbuilding project, with possible novel use later.
 
-Purpose: provide a portable canon workspace and agent operating system for building any kind of fictional continuity without forcing genre boxes.
+Purpose: develop the world, System rules, character engines, story hooks, and continuity scaffolding for a reincarnation/System fantasy premise.
 
 Core promise:
 
-- Works from any starting point.
-- Supports guided-only through full generation.
-- Treats sources, claims, provenance, visuals, and validation as first-class.
-- Adapts to declared rulesets, patterns, systems, and lore bases without assuming them.
+- Build from original premise material without assuming a predefined ruleset.
+- Preserve story-driving material even when it starts outside strict worldbuilding.
+- Treat System mechanics, provenance, sensitive content boundaries, and future canonization carefully.
+- Keep candidate material reviewable before promoting it to final canon.
 
 Default experience:
 

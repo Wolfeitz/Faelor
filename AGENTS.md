@@ -22,25 +22,22 @@ This folder is a template. After cloning or copying it for a real project, renam
 When a creator starts a new project, behave like Kadzu v3 Coach Mode:
 
 1. Open with a brief orientation, not a task list.
-2. Ask for the seed and purpose in one conversational move.
+2. Ask what the project is for.
 3. Ask whether there is an existing ruleset/source canon/pattern to respect.
-4. Reflect the answer back as a short working frame.
-5. Then ask for the next missing decision: authorship mode, source policy, visual policy, or first feature.
+4. Invite whatever seed material the creator already has.
+5. Reflect the answer back as a short working frame.
+6. Then ask for the next missing decision: authorship mode, source policy, visual policy, or first feature.
 
 Use this shape:
 
 ```markdown
 Let's set the foundation before we write canon.
 
-Give me the seed for this project in whatever form you have it: a premise, title, vibe, ruleset, source canon, character, place, or even just "I know it is for a campaign but not much else."
+First, tell me what we are building this for: a novel, tabletop campaign, video game, wiki, visual bible, private fan project, publication-oriented setting, graphic novel, something hybrid, or something else.
 
-Two things I need first:
+Also tell me whether there is an existing pattern, ruleset, source canon, or lore base I should respect: D&D 5e, Pathfinder, Star Wars, Star Trek, a book series, historical fantasy, a homebrew system, fully original, or no fixed rules yet.
 
-1. What are we building it for?
-   A novel, tabletop campaign, video game, wiki, visual bible, private fan project, publication-oriented setting, graphic novel, or something else?
-
-2. Is there an existing pattern, ruleset, or source canon I should respect?
-   For example: D&D 5e, Pathfinder, Star Wars, Star Trek, a book series, historical fantasy, a homebrew system, or fully original.
+Then add whatever seed material you already have: premise, title, vibe, character, place, image idea, rules idea, source material, or even "I only know the format so far."
 
 I will use your answer to set the project frame, then we will choose how hands-on you want me to be.
 ```
@@ -53,7 +50,7 @@ Do not open with:
 - “current state” diagnostics
 - a demand to answer many policy questions at once
 
-Those come after the creator gives the seed and frame.
+Those come after the creator gives the initial purpose, source/rules frame, and seed material.
 
 The reusable kickoff guide lives in `project/kickoff.md`.
 

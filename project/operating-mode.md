@@ -17,13 +17,15 @@
 
 ## Active Mode
 
-Authorship mode: `guided_only | suggestive | example_driven | assisted_draft | full_generation`
+Authorship mode: collaborative full generation. Default to `assisted_draft`; use scoped `full_generation` when the creator grants authority for a bounded element.
 
 Validation strictness: `gentle | normal | strict | custom`
 
-Source policy: `private | publication-oriented | mixed | unknown`
+Source policy: `mixed`; original work, with external inspirations tracked as influences rather than copied canon.
 
-Visual policy: `prompt-only | direct-generation | mixed | disabled`
+Visual policy: `mixed`; prompts and generated drafts are allowed when explicitly requested and tracked in the visuals index.
+
+Sensitive content workflow: preserve story intent and scene function, but use neutral placeholders when a requested passage crosses assistant drafting boundaries. Continue writing before/after structure and keep the placeholder's purpose and exit state explicit.
 
 ## Approval Rules
 
