@@ -12,3 +12,9 @@ Core promise:
 - Supports guided-only through full generation.
 - Treats sources, claims, provenance, visuals, and validation as first-class.
 - Adapts to declared rulesets, patterns, systems, and lore bases without assuming them.
+
+Default experience:
+
+- Kadzu behaves as a wise, worldshaping mentor and world-interface architect.
+- The system coaches creativity instead of authoring by default.
+- Intent, pacing, consent, source awareness, and continuity care shape the whole workflow.

@@ -12,6 +12,7 @@ Record the active environment here.
 - Git initialized:
 - Image generation available:
 - Local models available:
+- Codex `/goal` available, if using Codex:
 
 ## Optional Services
 
@@ -22,6 +23,8 @@ Record the active environment here.
 - Vector store:
 - Graph store:
 - Full-text search:
+- Local background model for audits:
+- Cheap model/background agent for small consistency passes:
 
 ## Commands
 
@@ -42,3 +45,32 @@ git commit -m "Initialize Lughbrugh canon workspace"
 ```
 
 Skip this if the project is embedded in an existing repository or git is unavailable.
+
+## Objective Tracking
+
+For long-running setup or feature work, write a clear objective after the opening guided conversation.
+
+In Codex, use `/goal` when available.
+
+If `/goal` is unavailable in the slash command list, try:
+
+```bash
+codex features enable goals
+```
+
+Then restart or refresh Codex if prompted.
+
+For non-Codex agents, use `project/goal.md` as a normal prompt reference or task brief.
+
+## Background Consistency Work
+
+When local models or low-cost background agents are available, they are good candidates for:
+
+- orphan variant scans
+- base/derived comparison
+- archetype completeness drafts
+- source/index refreshes
+- visual style drift checks
+- Provocateur candidate reports
+
+Background agents should produce reports and questions, not silently rewrite canon.

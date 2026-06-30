@@ -18,6 +18,8 @@ REQUIRED_PATHS = [
     "README.md",
     "project/identity.md",
     "project/creator.md",
+    "project/kickoff.md",
+    "project/personality.md",
     "project/operating-mode.md",
     "project/tools.md",
     "canon/README.md",

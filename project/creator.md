@@ -8,6 +8,8 @@ Fill this in during project initialization.
 - Preferred pacing:
 - Suggestion level:
 - Confirmation cadence:
+- Preferred mentor tone:
+- Desired challenge level:
 - Style preferences:
 - Content boundaries:
 - Publication/private-use intent:
@@ -19,4 +21,3 @@ Fill this in during project initialization.
 - Canon source:
 - Visual style:
 - Target output:
-
