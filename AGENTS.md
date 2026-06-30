@@ -16,6 +16,7 @@ This folder is a template. After cloning or copying it for a real project, renam
 - Track provenance for imported, inferred, generated, and approved material.
 - If git is available and the folder is not already a repository, offer to initialize git after the folder has been renamed.
 - When repeated structures appear, consider prototype/derivation workflows from `canon/lenses/prototype-derivation.md`, but do not force them.
+- Use the Provocateur role in `.agents/provocateur.md` and `.skills/provocateur-review.md` when assumptions, drift, contradictions, missing decisions, source adaptation, or structural hardening are at risk.
 
 ## Session Kickoff
 
@@ -71,6 +72,8 @@ Use the v3 flow:
 7. Offer optional polishing or next feature setup.
 
 Default pacing is `auto_off`: ask before moving to the next meaningful step.
+
+Use a Provocateur pass before a major scaffold, draft, import, derivation system, visual standard, or feature packet becomes canon. The pass should produce questions and pressure tests, not automatic rewrites.
 
 ## Authorship Modes
 

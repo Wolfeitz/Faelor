@@ -74,3 +74,5 @@ When local models or low-cost background agents are available, they are good can
 - Provocateur candidate reports
 
 Background agents should produce reports and questions, not silently rewrite canon.
+
+Use `.agents/provocateur.md` for the role contract and `.skills/provocateur-review.md` for the review workflow.

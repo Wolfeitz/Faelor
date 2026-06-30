@@ -133,6 +133,8 @@ def check_parent_runtime_refs() -> list[str]:
 def unresolved_items() -> list[tuple[str, int, str]]:
     items = []
     for path in iter_markdown():
+        if rel(path) == "canon/indexes/unresolved.md":
+            continue
         for lineno, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
             if TODO_RE.search(line):
                 items.append((rel(path), lineno, line.strip()))
