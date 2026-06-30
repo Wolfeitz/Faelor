@@ -27,6 +27,12 @@ Visual policy: `mixed`; prompts and generated drafts are allowed when explicitly
 
 Sensitive content workflow: preserve story intent and scene function, but use neutral placeholders when a requested passage crosses assistant drafting boundaries. Continue writing before/after structure and keep the placeholder's purpose and exit state explicit.
 
+Project story guidance: see `project/story-guidance.md`.
+
+Project guardrails reference: see `project/guardrails.md`.
+
+Provocateur project updates: the Provocateur may recommend updates to `project/*.md` when repeated creator preferences, mature-tone direction, workflow lessons, or scope decisions emerge.
+
 ## Approval Rules
 
 - Restructuring canon requires confirmation.

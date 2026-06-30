@@ -1,6 +1,6 @@
 # Feature Index
 
-Generated: 2026-06-30T16:14:49
+Generated: 2026-06-30T16:28:18
 
 - .features/_template/acceptance.md
 - .features/_template/brief.md
@@ -20,6 +20,15 @@ Generated: 2026-06-30T16:14:49
 - .features/project-foundation/requirements.md
 - .features/project-foundation/tasks.md
 - .features/project-foundation/worklog.md
+- .features/provocateur-extraction/acceptance.md
+- .features/provocateur-extraction/brief.md
+- .features/provocateur-extraction/decisions.md
+- .features/provocateur-extraction/design.md
+- .features/provocateur-extraction/questions.md
+- .features/provocateur-extraction/references.md
+- .features/provocateur-extraction/requirements.md
+- .features/provocateur-extraction/tasks.md
+- .features/provocateur-extraction/worklog.md
 - .features/story-engine/README.md
 - .features/story-engine/acceptance.md
 - .features/story-engine/brief.md
