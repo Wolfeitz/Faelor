@@ -1,6 +1,6 @@
 # Feature Index
 
-Generated: 2026-07-01T15:58:53
+Generated: 2026-07-01T16:06:20
 
 - .features/_template/acceptance.md
 - .features/_template/brief.md

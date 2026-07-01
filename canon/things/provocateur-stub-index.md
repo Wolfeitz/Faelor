@@ -1224,6 +1224,26 @@ Pressure questions:
 
 Build-depth recommendation: choose one or hybridize before designing family/household.
 
+### Hearthroad Vale
+
+Status: candidate starting region; expanded in `canon/realms/starting-region-skeleton.md`.
+Source: generated hybrid of Hearthvale and Threefold Crossroads.
+
+Known:
+
+- Region candidate for the MC's early life.
+- Combines a simpler home village with a nearby crossroads market town.
+- Everyday peoples include Hearthfolk humans and Ashenkin in the village sphere, with Stoneborn and Veyr more visible at the market-town level.
+- Local magic is practical, craft/social, and threshold-adjacent before becoming grand.
+
+Pressure questions:
+
+- Is the MC born in Briar Glen, Threefold Crossing, a road inn, a shrine-house, or another nearby household?
+- Which local adult notices his abnormal attention first?
+- Which outsider first reveals wider species complexity?
+
+Build-depth recommendation: likely primary starting-region candidate; review before approval.
+
 ### MC
 
 Status: central candidate.

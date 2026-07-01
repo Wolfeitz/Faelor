@@ -262,6 +262,8 @@ Hybrid possibility:
 
 Start with Option 1's stable household/farming base near Option 3's crossroads. The MC's home village is simple, but the nearby market town exposes him to Stoneborn, Veyr, traders, and rare outsiders during childhood.
 
+This hybrid is expanded in `canon/realms/starting-region-skeleton.md`.
+
 ## Provocateur Pass
 
 - Assumptions to confirm:
@@ -284,4 +286,3 @@ Start with Option 1's stable household/farming base near Option 3's crossroads. 
   - What local custom does an adult-arrival entrant violate in each option?
   - What childhood event gives the MC his first species-compatibility insight?
   - Which local profession first notices the MC is strange?
-
