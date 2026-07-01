@@ -27,6 +27,7 @@ Status: living project guidance. Update when the creator corrects process, tone,
 
 - Preserve story material even when it arrives during worldbuilding; story pressure often reveals world rules.
 - Every substantive response should include a forward prompt: suggested next steps, concrete actions the agent can take, or focused questions that move the project forward. Do this by default unless the creator explicitly asks for no prompts or only a narrow answer.
+- Collaboration split: collaborate with the creator on big setting levers such as races/species, magic system, cosmology, social structure, tone, and major story engines. After those levers are chosen, the agent should generate the detailed candidate files, implications, stubs, and infrastructure without waiting for line-by-line direction.
 - Extract "things" aggressively after major brainstorms: systems, people, institutions, skills, jobs, classes, resources, tools, social consequences, and implied infrastructure.
 - Mark extracted things as candidate/review rather than final canon.
 - When a concept implies a supply chain or social system, add those implied stubs instead of treating the concept as isolated.

@@ -15,6 +15,7 @@
 - Speculation during import/audit: off unless requested.
 - Output: Markdown first; schemas only when requested or exporting.
 - Forward prompt requirement: every substantive response should include suggested next steps, concrete actions the agent can take, or focused questions that move the project forward, unless the creator explicitly asks for no prompts or only a narrow answer.
+- Collaboration split: ask the creator to decide big levers; generate the detailed candidate worldbuilding after those levers are selected.
 
 ## Active Mode
 
