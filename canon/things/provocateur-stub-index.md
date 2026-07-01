@@ -1202,6 +1202,28 @@ Pressure questions:
 
 Build-depth recommendation: foundational for world population design.
 
+### Starting Region Roster Options
+
+Status: candidate options; expanded in `canon/realms/starting-region-roster-options.md`.
+Source: generated from species population scope.
+
+Known:
+
+- Three candidate starting-region population models exist:
+  - Hearthvale human-majority town;
+  - Rivermeet two-people market town;
+  - Threefold crossroads market town.
+- Each follows the one-to-three resident/mingling peoples rule.
+- Each includes travelers as early glimpses of the wider world.
+
+Pressure questions:
+
+- Which option best fits the MC's newborn/childhood arc?
+- Should the MC begin in village simplicity near a more complex market town?
+- Which local people first notice that the MC is strange?
+
+Build-depth recommendation: choose one or hybridize before designing family/household.
+
 ### MC
 
 Status: central candidate.

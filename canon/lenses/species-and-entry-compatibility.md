@@ -205,6 +205,8 @@ Traveling groups provide early glimpses:
 
 This gives the MC an insular childhood without making the world feel small. Outsiders become events, rumors, stories, warnings, temptations, and early data points for the Inner Workshop.
 
+Candidate starting-region rosters are drafted in `canon/realms/starting-region-roster-options.md`.
+
 Typical local population guidance:
 
 - village: usually one dominant people, with rare outsiders;
