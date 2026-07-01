@@ -40,7 +40,7 @@ This index is not approved canon. It is a breadth-first list of things, systems,
 
 ### Moon Array
 
-Status: candidate; needs review.
+Status: candidate; partially reviewed.
 Source: saved foundation and conversation.
 
 Known:
@@ -55,6 +55,7 @@ Inferred:
 - It requires builders, maintainers, automation, or self-repair.
 - It may hide its true nature from ordinary Earth science.
 - It may be one node in a larger network.
+- It is likely maintained by extraterrestrial races or higher civilizations rather than by any simple "core systems" locality; the network spans galaxies.
 
 Implied infrastructure:
 
@@ -67,18 +68,18 @@ Implied infrastructure:
 Pressure questions:
 
 - Who built it?
-- Who owns or runs it now?
+- Who owns or runs it now: array maintainers, custodians, automated systems, higher civilizations, or true administrators?
 - Is it manned, automated, abandoned, self-aware, or remotely managed?
 - How old is it?
 - Does it serve only Earth?
 - What happens to consciousnesses if it fails?
 - Can anyone on Earth detect or damage it?
 
-Build-depth recommendation: foundational, medium-to-deep.
+Build-depth recommendation: foundational, medium-to-deep. Needs a dedicated maintainer/operator model later.
 
 ### Death Interface
 
-Status: candidate; needs review.
+Status: candidate; partially reviewed.
 Source: saved foundation and conversation.
 
 Known:
@@ -86,27 +87,47 @@ Known:
 - At death, consciousness is offered a choice.
 - One option is to proceed naturally into the unknown.
 - Another option is to enter The System.
+- No one in the interface layer actually knows what continuing onward ultimately means.
+- Theories exist, as religions do, but no confirmed final answer is available.
+- The entrant cannot meaningfully refuse both choices because the natural process has already been interrupted.
+- Entering The System is a deferral, not a binding trap; the entrant can continue onward later.
 - The "bright light" may be part of this interface.
+- Consciousness is pulled into an in-between processing space.
+- This can echo religious concepts of limbo, bardo, purgatory, or a threshold between life and whatever comes next.
+- The System can frame this as a pause before proceeding.
+- The default AI construct uses triage plus translation.
+- First task is stabilization and orientation, not exhaustive explanation.
+- It adapts environment and language to what the entrant can tolerate.
+- It should avoid pretending to be a specific loved one or deity unless deeper protocol allows it, but may use culturally legible symbols.
+- It gives a short true explanation first, then deeper layered disclosure if asked.
+- It preserves agency: continuing onward is not punishment; entering The System is not salvation.
+- It may be kind because kindness works, leaving open whether operational kindness counts as true care.
 
 Inferred:
 
 - The interface may be customized to the entrant's expectations.
 - It likely has default recommendations and hidden options.
 - It may be where Promptcraft first matters.
+- The ordinary interface behaves like a refined running program that presents safe, normal, popular options.
 
 Pressure questions:
 
 - How much time does the entrant perceive during the choice?
-- Can entrants refuse all options?
+- What happens if an entrant tries to refuse all options despite interception?
 - Can the interface lie, omit, or simplify?
 - Is consent meaningful or product-shaped?
 - Can messages be sent from or through this space?
+- What religious traditions accidentally describe this space accurately, and which are wrong about why?
+- What are the rules for when the construct may use culturally familiar symbols versus specific identities?
+- How does the construct handle entrants who demand religious certainty?
+- How does the construct handle children, nonhuman entrants, or unstable consciousnesses?
+- What happens when an entrant refuses the standard path or keeps asking off-script questions?
 
 Build-depth recommendation: foundational, deep for first major scene.
 
 ### The System
 
-Status: candidate; needs review.
+Status: candidate; partially reviewed.
 Source: saved canon candidate and conversation.
 
 Known:
@@ -116,11 +137,17 @@ Known:
 - Has a default abstraction/interface layer.
 - Can recognize prior experience and map it into local structures.
 - Supports skills, classes/professions, titles, locked experience, queries, and notifications.
+- Early direct contact is probably only with an AI construct or interface intelligence.
+- The System has layers above the scenario-facing interface.
 
 Inferred:
 
 - It has primitives such as observe, classify, translate, display, compare, simulate, notify, restrict, reward, bind, route, log, and summarize.
 - It may be entertainment, afterlife deferral, population management, training, prison, research system, or something stranger.
+- Quest/prize systems may be related to viewer, sponsor, god, or story-arc layers.
+- Gods may be programs or world-management layers rather than ultimate beings.
+- True administrators sit above gods and interact with the overall System.
+- New administrators may occasionally be raised from participants who develop the right skills, titles, and authorities.
 
 Pressure questions:
 
@@ -129,6 +156,8 @@ Pressure questions:
 - Does it understand itself?
 - Can it be wrong, biased, outdated, or constrained?
 - What are its hard limits?
+- Which layer is speaking when "The System" answers?
+- What can the AI construct disclose about maintainers, gods, and administrators?
 
 Build-depth recommendation: foundational, deep.
 
@@ -158,7 +187,7 @@ Build-depth recommendation: foundational, medium.
 
 ### Earth As Scenario
 
-Status: open candidate.
+Status: open candidate; clue-first.
 Source: conversation.
 
 Known:
@@ -166,6 +195,7 @@ Known:
 - Earth may itself be a simulation or part of The System.
 - Earth may have special rules about not recalling past lives.
 - Earth scenarios may be required periodically to prevent psychological overload.
+- There should be early clues, but nothing the MC can reasonably assemble until later.
 
 Pressure questions:
 
@@ -1295,4 +1325,3 @@ Build-depth recommendation: review and prune before use.
    - deep: origin, economics, institutions, contradictions, and plot hooks.
 3. Run a deeper Provocateur implications pass on the selected stubs.
 4. Only then start broad canon expansion.
-

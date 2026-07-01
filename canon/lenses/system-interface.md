@@ -9,6 +9,10 @@ The System has a default abstraction layer. It presents clean menus, recommended
 
 The MC recognizes it as an interface.
 
+The death-entry experience behaves like a refined running program: safe, clean, familiar, and optimized over millennia for the choices most entrants make. It mostly leads rather than forbids.
+
+The MC's first major interface advantage is not a rule break. It is the ability to ask questions that do not belong to the current flow, causing the standard experience to reveal other programs, utilities, older interfaces, plug-in modules, advanced configuration screens, and eventually lower-level command access.
+
 ## Promptcraft
 
 Promptcraft is the ability to communicate effectively with constrained intelligences, recommendation systems, AI-like interfaces, and policy-bound tools.
@@ -25,6 +29,11 @@ Useful questions include:
 - Give the criteria categories even if exact thresholds are unavailable.
 - Restate this as a decision table.
 - Which parts are advisory rather than mandatory?
+- What interface or module am I currently using?
+- What other interfaces can answer this category of inquiry?
+- Is there a detailed configuration utility for this choice?
+- Show non-default customization modules.
+- What operations are available only through lower-level command access?
 
 Core line:
 
@@ -93,6 +102,8 @@ Most users see finished products. The MC learns to compose primitives into new u
 Core line:
 
 > The MC does not make the System do the impossible. He makes it do unintended possible things.
+
+Lower-level access is powerful but risky. The closer the MC gets to command-style operations, the more syntax, context, constraints, and failure modes matter. A malformed operation could damage configuration, memory, build coherence, or future integration.
 
 ## Lenses And Packages
 
