@@ -93,6 +93,8 @@ Known:
 - Entering The System is a deferral, not a binding trap; the entrant can continue onward later.
 - The "bright light" may be part of this interface.
 - Consciousness is pulled into an in-between processing space.
+- Interception itself is not purely unilateral; some form of consent, resonance, opt-in, pre-authorization, or consent-like condition must have allowed the pull.
+- The exact consent mechanism is unclear and may not be obvious to the entrant.
 - This can echo religious concepts of limbo, bardo, purgatory, or a threshold between life and whatever comes next.
 - The System can frame this as a pause before proceeding.
 - The default AI construct uses triage plus translation.
@@ -118,6 +120,7 @@ Pressure questions:
 - Is consent meaningful or product-shaped?
 - Can messages be sent from or through this space?
 - What religious traditions accidentally describe this space accurately, and which are wrong about why?
+- What counts as consent for interception: prior agreement, soul protocol, treaty, unconscious assent, death-threshold choice, inherited participation, or something else?
 - What are the rules for when the construct may use culturally familiar symbols versus specific identities?
 - How does the construct handle entrants who demand religious certainty?
 - How does the construct handle children, nonhuman entrants, or unstable consciousnesses?

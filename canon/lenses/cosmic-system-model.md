@@ -13,6 +13,10 @@ This space can play against religious ideas of limbo, bardo, purgatory, the thre
 
 The pause can last as long as the entrant chooses, or at least long enough to make scenario entry decisions. The System still does not claim to know or disclose what naturally comes next.
 
+Even interception is not purely unilateral. In some technical or metaphysical sense, the consciousness had to consent, resonate, opt in, pre-authorize, or satisfy a consent-like condition to be pulled into the processing space at all.
+
+That consent layer may be obscure to the entrant. It may come from prior-life agreement, soul-level protocol, civilization-level treaty, death-threshold choice, unconscious assent, inherited participation, or some other mechanism. The important point is that the System's legitimacy depends on more than raw capture.
+
 ## Continue Onward
 
 "Continue onward" means releasing the consciousness back into the natural post-death process.
