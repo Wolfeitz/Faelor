@@ -1,6 +1,6 @@
 # Feature Index
 
-Generated: 2026-07-01T13:27:51
+Generated: 2026-07-01T15:08:28
 
 - .features/_template/acceptance.md
 - .features/_template/brief.md
@@ -11,6 +11,33 @@ Generated: 2026-07-01T13:27:51
 - .features/_template/requirements.md
 - .features/_template/tasks.md
 - .features/_template/worklog.md
+- .features/kadzu-v15-generalization/acceptance.md
+- .features/kadzu-v15-generalization/brief.md
+- .features/kadzu-v15-generalization/decisions.md
+- .features/kadzu-v15-generalization/design.md
+- .features/kadzu-v15-generalization/questions.md
+- .features/kadzu-v15-generalization/references.md
+- .features/kadzu-v15-generalization/requirements.md
+- .features/kadzu-v15-generalization/tasks.md
+- .features/kadzu-v15-generalization/worklog.md
+- .features/proactive-guided-mode/acceptance.md
+- .features/proactive-guided-mode/brief.md
+- .features/proactive-guided-mode/decisions.md
+- .features/proactive-guided-mode/design.md
+- .features/proactive-guided-mode/questions.md
+- .features/proactive-guided-mode/references.md
+- .features/proactive-guided-mode/requirements.md
+- .features/proactive-guided-mode/tasks.md
+- .features/proactive-guided-mode/worklog.md
+- .features/process-canon-adaptation/acceptance.md
+- .features/process-canon-adaptation/brief.md
+- .features/process-canon-adaptation/decisions.md
+- .features/process-canon-adaptation/design.md
+- .features/process-canon-adaptation/questions.md
+- .features/process-canon-adaptation/references.md
+- .features/process-canon-adaptation/requirements.md
+- .features/process-canon-adaptation/tasks.md
+- .features/process-canon-adaptation/worklog.md
 - .features/project-foundation/README.md
 - .features/project-foundation/acceptance.md
 - .features/project-foundation/brief.md
@@ -29,6 +56,15 @@ Generated: 2026-07-01T13:27:51
 - .features/provocateur-extraction/requirements.md
 - .features/provocateur-extraction/tasks.md
 - .features/provocateur-extraction/worklog.md
+- .features/seed-learning-generalization/acceptance.md
+- .features/seed-learning-generalization/brief.md
+- .features/seed-learning-generalization/decisions.md
+- .features/seed-learning-generalization/design.md
+- .features/seed-learning-generalization/questions.md
+- .features/seed-learning-generalization/references.md
+- .features/seed-learning-generalization/requirements.md
+- .features/seed-learning-generalization/tasks.md
+- .features/seed-learning-generalization/worklog.md
 - .features/story-engine/README.md
 - .features/story-engine/acceptance.md
 - .features/story-engine/brief.md

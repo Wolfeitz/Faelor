@@ -13,6 +13,7 @@ Gather only what is available:
 - active authorship mode
 - active source and visual policies
 - relevant prototype/derivation notes
+- relevant project guidance from `project/creator.md`, `project/guardrails.md`, `project/creative-guidance.md`, `project/lessons.md`, and `project/operating-mode.md`
 
 Do not block the review because one input is missing. Mark missing inputs as risks.
 
@@ -25,7 +26,8 @@ Do not block the review because one input is missing. Mark missing inputs as ris
 5. Look for missing decisions that would affect later work.
 6. If repeated structures exist, check prototype/variant/layer/instance relationships.
 7. If visual work exists, check style scope and continuity.
-8. Return decision prompts and pressure tests, not automatic rewrites.
+8. If the creator has corrected the same behavior repeatedly, recommend a project guidance update.
+9. Return decision prompts and pressure tests, not automatic rewrites.
 
 ## Output Template
 
@@ -38,6 +40,7 @@ Provocateur pass:
 - Drift risks:
 - Useful pressure tests:
 - Recommended next prompt:
+- Suggested guidance updates:
 ```
 
 ## Severity
@@ -57,3 +60,4 @@ Use lightweight labels only when helpful:
 - Do not turn every ambiguity into a blocker.
 - Preserve unusual choices if they appear intentional.
 - If an issue can be resolved by one focused prompt, ask that prompt.
+- Do not edit project guidance without confirmation unless maintenance authority has been granted.

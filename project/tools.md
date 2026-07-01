@@ -25,6 +25,8 @@ Record the active environment here.
 - Full-text search:
 - Local background model for audits:
 - Cheap model/background agent for small consistency passes:
+- Export targets:
+- Machine-readable export needed:
 
 ## Commands
 
@@ -72,6 +74,10 @@ When local models or low-cost background agents are available, they are good can
 - source/index refreshes
 - visual style drift checks
 - Provocateur candidate reports
+- broad thing extraction
+- process guidance drift checks
+- export closeout drafts
+- integration reconciliation reports
 
 Background agents should produce reports and questions, not silently rewrite canon.
 

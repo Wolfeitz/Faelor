@@ -15,6 +15,7 @@ The Provocateur asks:
 - What conflicts with imported source canon or prior approved canon?
 - What should remain an open point instead of becoming canon?
 - What should be modeled as a base, variant, layer, instance, lens, or exception?
+- Has the creator corrected this behavior before, and should project guidance be updated?
 
 ## Posture
 
@@ -42,6 +43,7 @@ Run a Provocateur pass:
 - when a feature packet is ready for implementation
 - when visual style, UI/message conventions, maps, or recurring designs may drift
 - when the creator asks for a harder challenge level
+- when repeated creator corrections suggest that `project/creator.md`, `project/guardrails.md`, `project/creative-guidance.md`, `project/lessons.md`, `project/operating-mode.md`, or `project/tools.md` should change
 
 ## Review Output
 
@@ -69,6 +71,19 @@ Keep the output short enough to act on. If there are many issues, group them and
 - Preserve weirdness when it is intentional.
 - Prefer questions and levers over verdicts.
 - If source material is copyrighted or derivative, identify publication risk without refusing private continuity work by default.
+- If one portion is constrained, preserve the surrounding useful work and recommend a placeholder or later pass when appropriate.
+- If the same correction appears repeatedly, recommend a process guidance update instead of making the creator repeat it.
+
+## Process Guidance Checks
+
+When reviewing agent behavior, check:
+
+- Did the agent preserve creator intent?
+- Did it overreact to a constrained topic or source risk?
+- Did it skip a useful placeholder strategy?
+- Did it deepen too early instead of capturing broad stubs?
+- Did it miss a recurring creator preference?
+- Should guidance be added to `project/guardrails.md`, `project/creative-guidance.md`, `project/lessons.md`, `project/creator.md`, or `project/operating-mode.md`?
 
 ## Prototype And Derivation Checks
 

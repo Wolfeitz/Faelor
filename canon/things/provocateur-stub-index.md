@@ -1176,6 +1176,28 @@ Build-depth recommendation: medium, but avoid over-comedy unless desired.
 
 ## Character And Social Stubs
 
+### Species And Entry Compatibility
+
+Status: candidate; expanded in `canon/lenses/species-and-entry-compatibility.md`.
+Source: creator direction.
+
+Known:
+
+- The multiverse contains every conceivable and inconceivable kind of life somewhere.
+- Scenario instances cluster by compatibility: body, senses, culture, memory, play style, entry requirements, and reality assumptions.
+- The target world should be generally humanoid-compatible without implying all life is humanoid.
+- Entrants may be able to select species/body/lineage, but major changes strongly recommend from-birth acclimation.
+- Entrants who ignore this advice can become culturally inept adult arrivals.
+
+Pressure questions:
+
+- What peoples are common in the starting region?
+- Which species look attractive in a menu but are hard to inhabit?
+- What alien lifeforms are present but unrecognized as people?
+- How does the System present species choice without flattening peoples into stat packages?
+
+Build-depth recommendation: foundational for world population design.
+
 ### MC
 
 Status: central candidate.

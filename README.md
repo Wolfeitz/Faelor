@@ -1,17 +1,13 @@
-# Project Title
-
-Replace this heading with the actual project/world/story title during initialization.
+# Fealor
 
 ## Project Overview
 
-Fill this in after discovery.
-
-- Built for:
-- Existing pattern/ruleset/source canon:
-- Authorship mode:
-- Source policy:
-- Visual policy:
-- Primary outputs:
+- Built for: worldbuilding exercise first, with possible novel use later.
+- Existing pattern/ruleset/source canon: original LitRPG/system fantasy; no predefined ruleset or source canon.
+- Authorship mode: collaborative full generation. Big levers are chosen with the creator; details are generated as candidate canon.
+- Source policy: mixed; external works may inspire structure, but Fealor remains original.
+- Visual policy: mixed; prompts and generated images are allowed when requested and tracked.
+- Primary outputs: world bible, System rules, story engine notes, candidate canon, and reviewable stubs.
 
 ## Lughbrugh
 
@@ -67,6 +63,19 @@ python tools/lughbrugh.py index
 - `.skills/` contains optional reusable workflows.
 - `tools/` contains local validation and index tooling.
 - `fixtures/` contains small artificial examples for validation.
+
+## Process Canon
+
+Creator preferences, guardrails, creative posture, and workflow lessons are durable project guidance. They are not world canon, but they shape how agents should work.
+
+Key files:
+
+- `project/creator.md`
+- `project/guardrails.md`
+- `project/creative-guidance.md`
+- `project/lessons.md`
+- `project/seed-learning.md`
+- `project/export.md`
 
 ## Canon Policy
 

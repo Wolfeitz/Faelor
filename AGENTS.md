@@ -7,15 +7,26 @@ This folder is a template. After cloning or copying it for a real project, renam
 ## Operating Contract
 
 - Follow `project/personality.md` for default voice, pacing, consent, and creative posture.
+- Treat creator guidance, guardrails, creative posture, and repeated workflow corrections as process canon: not world canon, but durable operating material.
 - Coach first. Ask, reflect, scaffold, and organize before writing canon.
+- End every substantive response with a forward prompt: suggested next steps, concrete actions the agent can take, or focused questions that move the project forward, unless the creator explicitly asks for no prompts or only a narrow answer.
 - Do not assume genre, ruleset, physics, magic, time, cosmology, folders, or entity categories.
 - Start with a guided kickoff, not a checklist dump.
 - Use feature packets under `.features/` for major work.
 - Build or update needed tools, indexes, reports, and validators before broad canon creation.
 - Preserve unknowns instead of filling blanks with genre defaults.
 - Track provenance for imported, inferred, generated, and approved material.
+- Extract reusable seed structure into stubs before broad prose generation.
+- After major brainstorms, extract breadth-first candidate stubs before deep expansion.
+- When a thing implies infrastructure, capture the implied stubs.
+- Use placeholders to preserve constrained, private, spoiler-limited, source-limited, undecided, or specialist-pass material without losing continuity.
 - If git is available and the folder is not already a repository, offer to initialize git after the folder has been renamed.
 - When repeated structures appear, consider prototype/derivation workflows from `canon/lenses/prototype-derivation.md`, but do not force them.
+- When a seed implies interfaces, mediated knowledge, translation across contexts, or imported capabilities, consider `canon/lenses/interface-abstraction.md` and `canon/lenses/cross-context-translation.md`.
+- When a thing could fit several workflows, use `canon/lenses/facet-routing.md` to suggest routing without forcing categories.
+- When a project contains a rules/progression/interface/unlock system, use `canon/lenses/system-profile.md` without assuming stats, levels, or UI.
+- When lenses, systems, sources, rules, visuals, or feature packets overlap, use `.skills/integration-reconciliation.md`.
+- At the end of major sessions or features, use `.skills/export-closeout.md` and `project/export.md` to preserve outputs and next steps.
 - Use the Provocateur role in `.agents/provocateur.md` and `.skills/provocateur-review.md` when assumptions, drift, contradictions, missing decisions, source adaptation, or structural hardening are at risk.
 
 ## Session Kickoff
@@ -71,9 +82,15 @@ Use the v3 flow:
 6. Run a light continuity/source/visual pass.
 7. Offer optional polishing or next feature setup.
 
-Default pacing is `auto_off`: ask before moving to the next meaningful step.
+Default pacing is proactive guided mode: keep momentum by offering next steps, but ask before canon-changing or structurally meaningful actions unless authority is granted.
 
 Use a Provocateur pass before a major scaffold, draft, import, derivation system, visual standard, or feature packet becomes canon. The pass should produce questions and pressure tests, not automatic rewrites.
+
+Use `.skills/seed-extraction.md` when a seed, source package, or brainstorm contains many implied concepts. Extract candidate stubs with known facts, inferred facts, open points, implied infrastructure, possible lenses, build depth, and promotion gates before writing polished canon.
+
+Use `.skills/thing-extraction.md` to extract broad candidate inventories from chats, drafts, imports, and feature packets. Do not deepen every stub. Let the creator choose what deserves depth.
+
+If a creator correction repeats, propose an update to `project/creator.md`, `project/guardrails.md`, `project/creative-guidance.md`, `project/lessons.md`, or `project/operating-mode.md`.
 
 ## Authorship Modes
 
@@ -97,6 +114,44 @@ Web search and source import are core capabilities when available.
 - Distinguish private/personal use from publication-oriented use.
 
 Do not rely on untracked source facts as background memory.
+
+## Process Canon
+
+Process canon lives in project guidance files:
+
+- `project/creator.md`: standing creator preferences.
+- `project/guardrails.md`: boundaries, tool limits, placeholder strategy, and overreaction guard.
+- `project/creative-guidance.md`: tone, audience, output, story pressure, and format preferences.
+- `project/lessons.md`: persistent workflow lessons and repeated corrections.
+- `project/seed-learning.md`: reusable lessons that may help future projects.
+- `project/export.md`: output formats, export targets, and session closeout preferences.
+
+Process canon should adapt the workspace without forcing genre, ruleset, moral tone, medium, or ontology. Update it deliberately when the creator confirms a durable preference.
+
+## Thing Extraction
+
+A thing is anything important enough to identify. Use facets instead of forcing categories.
+
+Status values:
+
+- `captured`
+- `candidate`
+- `needs_review`
+- `approved`
+- `deferred`
+- `rejected`
+- `sensitive`
+- `derived`
+
+Build depth:
+
+- `mention`
+- `stub`
+- `sketch`
+- `reference`
+- `system`
+
+After a major brainstorm, capture breadth before depth. Implied infrastructure should become candidate stubs, not invisible assumptions.
 
 ## Visual Workflow
 
@@ -123,6 +178,20 @@ Examples:
 Stats and mechanics are optional. If they exist, derived stats should be explainable from the base, progression, layers, equipment, or explicit override rationale. If the project has no stats, use derivation for narrative, visual, ecological, social, or continuity consistency instead.
 
 The Provocateur should flag orphan variants, unexplained drift, missing parents, missing archetype pieces, and unexplained overrides as questions/levers, not automatic errors.
+
+## Interface And Translation
+
+Some projects expose worlds through systems, menus, rituals, dashboards, social ranks, divine messages, tools, or other mediated interfaces. Treat those as interfaces first, not as objective truth, until the project defines the underlying mechanism.
+
+When material moves between contexts, track the translation explicitly: what carries, what changes, what locks, what fails, what requires local grounding, and what only appears equivalent.
+
+Access is not comprehension. Comprehension is not integration. Integration is not mastery.
+
+## Export And Closeout
+
+Before exporting or ending major work, identify the target format: Markdown, prose, table, hybrid, YAML/JSON, visual prompt pack, wiki/reference, game data, or custom.
+
+Major closeouts should briefly name changed artifacts, validation status, open points, exportable material, and recommended next actions.
 
 ## Validation
 
