@@ -212,7 +212,7 @@ Build-depth recommendation: hold open; avoid hardening too soon.
 
 ### Incarnation Vectors
 
-Status: candidate; needs review.
+Status: candidate; expanded in `canon/lenses/incarnation-vectors.md`.
 Source: story-engine.
 
 Known:
@@ -250,7 +250,7 @@ Build-depth recommendation: foundational, deep for entry scene.
 
 ### Newborn Entry
 
-Status: candidate; important.
+Status: candidate; important; expanded in `canon/lenses/incarnation-vectors.md`.
 Source: saved story-engine and conversation.
 
 Known:
