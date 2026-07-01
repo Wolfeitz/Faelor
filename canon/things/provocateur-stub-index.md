@@ -1188,6 +1188,9 @@ Known:
 - The target world should be generally humanoid-compatible without implying all life is humanoid.
 - Entrants may be able to select species/body/lineage, but major changes strongly recommend from-birth acclimation.
 - Entrants who ignore this advice can become culturally inept adult arrivals.
+- Exposed species complexity should follow an MMORPG-style scope curve: limited/insular at first, increasingly complex in larger regions.
+- Towns usually have one to three resident or routinely mingling peoples/race groupings.
+- Traveling peddlers, merchants, bards, soldiers, mercenaries, pilgrims, and other outsiders can appear early so the starter area is insular but not isolated.
 
 Pressure questions:
 
@@ -1195,6 +1198,7 @@ Pressure questions:
 - Which species look attractive in a menu but are hard to inhabit?
 - What alien lifeforms are present but unrecognized as people?
 - How does the System present species choice without flattening peoples into stat packages?
+- What traveling outsider first reveals the wider species complexity?
 
 Build-depth recommendation: foundational for world population design.
 

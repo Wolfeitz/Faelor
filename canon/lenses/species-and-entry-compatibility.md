@@ -161,6 +161,58 @@ Recommended initial mix:
 
 This lets the world feel broad without overwhelming the newborn/childhood phase.
 
+## Population Scope Progression
+
+Use an MMORPG-style scope curve for exposed peoples.
+
+Early areas can be racially or culturally limited, even insular, so the reader and MC learn a coherent local baseline first. This does not mean the world is isolated. It means the starting lens is local.
+
+As the MC moves outward, the population mix becomes more complex:
+
+1. **Household / Village / Starter Locality**
+   Mostly one dominant people or culture, with a few known outsiders.
+
+2. **Town / Market / Road Network**
+   Typically one to three mingling peoples or race groupings are resident or routinely present. Nearby peoples appear through trade, marriage, labor, temples, soldiery, festivals, and peddlers. Less common peoples are usually travelers, specialists, or events rather than part of the everyday baseline.
+
+3. **City / Guild Hub / Regional Capital**
+   Multiple peoples are socially visible, with districts, guilds, embassies, minority communities, and mixed institutions.
+
+4. **Frontier / Adventuring / War Zones**
+   Mercenaries, soldiers, dungeon crews, refugees, pilgrims, specialists, and rare entrants appear.
+
+5. **Continental / Imperial / Planar / System-Linked Regions**
+   Species complexity becomes normal, and local assumptions break down.
+
+Traveling groups provide early glimpses:
+
+- peddlers;
+- merchants;
+- bards;
+- soldiers;
+- mercenaries;
+- pilgrims;
+- monster hunters;
+- guild factors;
+- diplomats;
+- refugees;
+- caravan guards;
+- scholars;
+- healers;
+- tinkers;
+- priests;
+- adventuring parties.
+
+This gives the MC an insular childhood without making the world feel small. Outsiders become events, rumors, stories, warnings, temptations, and early data points for the Inner Workshop.
+
+Typical local population guidance:
+
+- village: usually one dominant people, with rare outsiders;
+- town: usually one to three resident/mingling peoples or race groupings;
+- market hub: three to five familiar peoples, plus regular travelers;
+- city: many peoples, but still structured by districts, guilds, class, and culture;
+- frontier/adventuring hub: unusually diverse, because danger and opportunity pull specialists together.
+
 ## Provocateur Pass
 
 - Assumptions to confirm:
@@ -185,4 +237,4 @@ This lets the world feel broad without overwhelming the newborn/childhood phase.
   - What species would look attractive in the menu but be miserable to inhabit?
   - What local people are humanoid-legible but not human-minded?
   - What lifeform might be present in the starting region that humans do not recognize as a participant?
-
+  - Which traveling outsider first makes the MC realize the starting region is only a tiny compatibility pocket?
