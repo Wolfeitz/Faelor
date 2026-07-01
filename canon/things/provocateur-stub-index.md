@@ -433,7 +433,7 @@ Build-depth recommendation: foundational for mid-story; medium now.
 
 ### Classes
 
-Status: candidate; strong.
+Status: candidate; strong; expanded in `canon/lenses/skill-class-magic-model.md`.
 Source: saved Earthborn file and conversation.
 
 Known:
@@ -454,7 +454,7 @@ Build-depth recommendation: foundational, deep.
 
 ### Professions
 
-Status: candidate.
+Status: candidate; expanded in `canon/lenses/skill-class-magic-model.md`.
 Source: saved Earthborn file.
 
 Known:
@@ -503,7 +503,7 @@ Build-depth recommendation: foundational, deep.
 
 ### Titles And Authorities
 
-Status: candidate stub.
+Status: candidate stub; title model expanded in `canon/lenses/skill-class-magic-model.md`.
 Source: conversation.
 
 Known:
