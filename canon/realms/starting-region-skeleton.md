@@ -388,6 +388,8 @@ Option C hybridized with A: a Hearthfolk family tied to a road inn, stable, brew
 
 This gives the MC household intimacy plus traveler data.
 
+Detailed household options are drafted in `canon/things/mc-household-options.md`.
+
 ## First Outsider Encounter Options
 
 ### The Culturally Inept Adult Arrival
@@ -469,4 +471,3 @@ Good recurring sources for the Inner Workshop:
   - What local custom does the MC misunderstand despite growing up there?
   - What outsider custom does he understand better than locals because of System observation?
   - What childhood crisis forces him to use the Inner Workshop without revealing it?
-

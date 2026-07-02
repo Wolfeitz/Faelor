@@ -1266,6 +1266,29 @@ Pressure questions:
 
 Build-depth recommendation: deep, but after rules pillars.
 
+### MC Household Options
+
+Status: candidate options; expanded in `canon/things/mc-household-options.md`.
+Source: generated from starting-region skeleton.
+
+Known:
+
+- Four candidate household models exist:
+  - road-inn brewery household;
+  - Hearthfolk farm with Ashenkin craft debt;
+  - shrine-house threshold family;
+  - market provisioner kin network.
+- Recommended direction is a road-inn/provisioning/brewing hybrid with Ashenkin, Veyr, and Stoneborn ties.
+- The household should be useful but not elite.
+
+Pressure questions:
+
+- Is the household inn-first, provisioner-first, brewery-first, or shrine-adjacent?
+- Who notices the MC's abnormal attention first?
+- What family vulnerability drives early stakes?
+
+Build-depth recommendation: choose/hybridize before designing parents and infancy arc.
+
 ### Mother
 
 Status: implied; sensitive.
